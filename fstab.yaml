@@ -1,3 +1,2 @@
 mountpoints:
-  /:
-    url: "https://docs.google.com/document/d/1P_Y7KcrcxIQsYHNST-6_y4QzhSDjk6us6BAxp3--UCM/edit"
+  /: "https://docs.google.com/document/d/1P_Y7KcrcxIQsYHNST-6_y4QzhSDjk6us6BAxp3--UCM/edit"
